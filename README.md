@@ -54,3 +54,5 @@ Notes
 - Backup and recovery testing completed successfully.
 - Logging validation completed using NGINX access logs.
 - Financial analysis values were provided as assignment assumptions.
+
+All screenshots contained in the evidence folder correspond to activities performed and validated during the practical exercise.
